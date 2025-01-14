@@ -1,4 +1,4 @@
 # login
 Пример логина
 
-<img scr"/icon1"><img>
+<img scr"/icon1"></img>
